@@ -4,12 +4,6 @@
 
 This repository focuses on predicting fraudulent credit card transactions using machine learning models. The dataset, available on [Kaggle](https://www.kaggle.com/mlg-ulb/creditcardfraud), comprises 284,807 transactions, including 492 fraudulent ones. Preprocessing is necessary due to data imbalance.
 
-![1_Lci4cCUXgb6zZRyKmgWfVA](https://github.com/Vishal-74/CreditCardFraudDetectionProject/assets/115347234/fa9c32df-4f44-4dbd-9caf-73f84f506d97)
-
-![image](https://github.com/Vishal-74/CreditCardFraudDetectionProject/assets/115347234/d3a901d7-9d8d-491a-99b5-577463d5b8c7)
-
-
-
 ## Business Problem
 
 Banking fraud, causing significant financial losses and trust issues, was estimated at $30 billion globally by 2020 ([Nilson Report](https://nilsonreport.com/upload/content_promo/The_Nilson_Report_Issue_1164.pdf)). Rising digital transactions have led to evolving fraud methods.
